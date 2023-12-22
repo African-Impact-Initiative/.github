@@ -1,1 +1,1 @@
-# .github
+# African Impact Initiative
